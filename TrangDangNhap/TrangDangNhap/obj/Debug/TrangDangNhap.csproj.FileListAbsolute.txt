@@ -1,0 +1,10 @@
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\bin\Debug\TrangDangNhap.exe.config
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\bin\Debug\TrangDangNhap.exe
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\bin\Debug\TrangDangNhap.pdb
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\obj\Debug\TrangDangNhap.csproj.AssemblyReference.cache
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\obj\Debug\TrangDangNhap.Properties.Resources.resources
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\obj\Debug\TrangDangNhap.csproj.GenerateResource.cache
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\obj\Debug\TrangDangNhap.csproj.CoreCompileInputs.cache
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\obj\Debug\TrangDangNhap.exe
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\obj\Debug\TrangDangNhap.pdb
+C:\Users\vutai\source\repos\TrangDangNhap\TrangDangNhap\obj\Debug\TrangDangNhap.TrangDangKy.resources
